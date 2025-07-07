@@ -1,0 +1,26 @@
+body{
+    background-color:whitesmoke;
+}
+label{
+    display:block;
+}
+button:hover{
+    background-color: lightgreen;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button{
+    background-color: green;
+    cursor: pointer;
+    border-radius: 5px;
+    padding:2px;
+    margin-left: 55px;
+}
+form{
+    width: 50px;
+    position: relative;
+    left: 40%;
+    top: 15px;
+    box-shadow: -1px 2px 2px  grey;
+}
+
